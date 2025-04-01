@@ -8,6 +8,8 @@ Luis Eduardo Cantillo Zapateiro cantilloluiseduardo52@gmail.com
 Luis Alberto Quintero Sandoval, electronica20510@hotmail.com
 
 
-![](https://github.com/CantilloLuis/WinningApp-Desarrollo-Movil/blob/Main/mobile1.png)
-![](https://github.com/CantilloLuis/WinningApp-Desarrollo-Movil/blob/Main/mobile2.png)
-![](https://github.com/CantilloLuis/WinningApp-Desarrollo-Movil/blob/Main/mobile3.png)
+<p align="center">
+  <img src="https://github.com/CantilloLuis/WinningApp-Desarrollo-Movil/blob/Main/mobile1.png" width="250">
+  <img src="https://github.com/CantilloLuis/WinningApp-Desarrollo-Movil/blob/Main/mobile2.png" width="250">
+  <img src="https://github.com/CantilloLuis/WinningApp-Desarrollo-Movil/blob/Main/mobile3.png" width="250">
+</p>
